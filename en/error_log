@@ -1,0 +1,4 @@
+[09-Nov-2022 17:40:38 UTC] PHP Warning:  include(cls/header.php): failed to open stream: No such file or directory in /home/sectorne/public_html/tropicaloasis/en/index.php on line 52
+[09-Nov-2022 17:40:38 UTC] PHP Warning:  include(): Failed opening 'cls/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sectorne/public_html/tropicaloasis/en/index.php on line 52
+[09-Nov-2022 17:40:38 UTC] PHP Warning:  include(cls/footer.php): failed to open stream: No such file or directory in /home/sectorne/public_html/tropicaloasis/en/index.php on line 453
+[09-Nov-2022 17:40:38 UTC] PHP Warning:  include(): Failed opening 'cls/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/sectorne/public_html/tropicaloasis/en/index.php on line 453
